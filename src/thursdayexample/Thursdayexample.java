@@ -10,7 +10,7 @@ package thursdayexample;
  * @author Hp
  */
 public class Thursdayexample {
-
+//hay
     /**
      * @param args the command line arguments
      */
